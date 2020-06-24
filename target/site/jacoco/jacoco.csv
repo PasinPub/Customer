@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+customer,com.digitalacademy.customer.service,CustomerService,5,43,0,2,1,12,1,7,1,6
+customer,com.digitalacademy.customer.util,Calculator,15,0,0,0,4,0,4,0,4,0
+customer,com.digitalacademy.customer.controller,CustomerController,67,10,10,0,15,4,10,2,5,2
